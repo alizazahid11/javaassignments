@@ -1,0 +1,25 @@
+
+    * {
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+        /* background-image: url("https://media.istockphoto.com/id/1372764637/photo/coding-language-development-icon-on-yellow-background-software-development-concept.jpg?b=1&s=170667a&w=0&k=20&c=rLpciCTbJBuOa866w4RSUNpMeFDwKkO-HffenRrUOfo=");
+        background-repeat: no-repeat;
+        background-position: center;
+    background-size: cover;
+    min-height: 100vh; */
+    }
+
+    body{
+        margin:0;
+        padding:0;
+        font-family: sans-serif;
+        background-image:url("https://cutewallpaper.org/21/javascript-wallpaper/JavaScript-Wallpaper-by-MrHudson-on-DeviantArt.jpg") ;
+        background-size: cover;
+       background-position: center;
+       background-repeat: no-repeat;
+       background-attachment: fixed;
+       width:100%;
+       height:100%;
+       z-index: -1;
+       position:absolute;}
